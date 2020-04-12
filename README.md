@@ -7,3 +7,9 @@ This is a series of design that i randomly took from various instagram, facebook
 ![](https://imgur.com/ou1NBKB.png)  |  ![](https://imgur.com/8Zc4y5P.png)
 
 <i>Design-credit: <a href="https://dribbble.com/shots/6910454-Bicycle-Store-App/attachments">Marcin Grygierczyk</a></i>
+
+## 1.just_design( online courses app )
+
+![](https://imgur.com/osCPr70.png)  |  ![](https://imgur.com/vwAKDfP.png)
+
+<i>Design-credit: <a href="https://www.instagram.com/p/B-g6zsvih5G/">Purrweb (Instagram page)</a></i>
