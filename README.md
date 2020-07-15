@@ -17,3 +17,7 @@ This is a series of design that i randomly took from various instagram, facebook
 ## 3.just_design( Food ordering app )
 
 ![](https://imgur.com/wRKcPvZ.png)
+
+## 4.just_design( Instagram refined )
+
+![](https://imgur.com/Oahy3Z4.png)
