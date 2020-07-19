@@ -20,4 +20,4 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ## 4.just_design( Instagram refined )
 
-![](https://imgur.com/Oahy3Z4.png)
+![](https://imgur.com/LglLXY4.png)
