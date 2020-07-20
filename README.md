@@ -21,3 +21,11 @@ This is a series of design that i randomly took from various instagram, facebook
 ## 4.just_design( Instagram refined )
 
 ![](https://imgur.com/LglLXY4.png)
+
+<i>Design-credit: <a href="https://www.instagram.com/p/CClWPwsAdt0/">Xitij Thakkar</a></i>
+
+## 5.just_design( Events App )
+
+![](https://imgur.com/82aBcoA.png)
+
+<i>Design-credit: <a href="https://www.instagram.com/p/CBdiVWqAAzm/">Mickael G</a></i>
