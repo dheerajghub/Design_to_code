@@ -29,3 +29,12 @@ This is a series of design that i randomly took from various instagram, facebook
 ![](https://imgur.com/82aBcoA.png)
 
 <i>Design-credit: <a href="https://www.instagram.com/p/CBdiVWqAAzm/">Mickael G</a></i>
+
+
+## Donations
+If you like these projects and you want to support me , buy me a coffee.
+
+[![Paypal](https://imgur.com/FokjFDA.png)](https://paypal.me/PayDheeraj)
+
+## Credits
+**©** **Dheeraj kumar sharma** - *2020*
