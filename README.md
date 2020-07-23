@@ -36,8 +36,6 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <i>Design-credit: <a href="https://www.instagram.com/p/CAp1dYqg_-9/">arounda.agency( instagram page )</a></i>
 
-https://imgur.com/UcbJpJy
-
 
 ## Donations
 If you like these projects and you want to support me , buy me a coffee.
