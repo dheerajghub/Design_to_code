@@ -36,6 +36,12 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <i>Design-credit: <a href="https://www.instagram.com/p/CAp1dYqg_-9/">arounda.agency( instagram page )</a></i>
 
+## 6.just_design( Banking App )
+
+![](https://imgur.com/Ooifc0e.png)
+
+<i>Design-credit: <a href="https://www.instagram.com/p/B6Iv5ekgjzk/">Sudhan PS( instagram page )</a></i>
+
 
 ## Donations
 If you like these projects and you want to support me , buy me a coffee.
