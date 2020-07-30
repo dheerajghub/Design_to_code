@@ -44,7 +44,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ## 7.just_design( Travel App )
 
-![](https://imgur.com/z2pRwYg.png)  |  ![](https://imgur.com/8IeMi2p.png)
+![](https://imgur.com/z2pRwYg.png | width=300)  |  ![](https://imgur.com/8IeMi2p.png)
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B9HWfjRgXK4/">Sudhan PS( instagram page )</a></i>
 
