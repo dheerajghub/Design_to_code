@@ -49,6 +49,12 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B9HWfjRgXK4/">Sudhan PS( instagram page )</a></i>
 
+## 8.design_to_code( Music App )
+
+<img src="https://imgur.com/OzATsb3.png" data-canonical-src="https://imgur.com/OzATsb3.png" width="400" />
+
+<i>Design-credit: <a href="https://www.instagram.com/p/CBvvDxTgtVb/">Design4me( instagram page )</a></i>
+
 
 ## Donations
 If you like these projects and you want to support me , buy me a coffee.
