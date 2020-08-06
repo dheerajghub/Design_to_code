@@ -55,6 +55,13 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <i>Design-credit: <a href="https://www.instagram.com/p/CBvvDxTgtVb/">Design4me( instagram page )</a></i>
 
+## 9.design_to_code( Instagram redesign )
+
+<img src="https://imgur.com/wM26MLq.png" data-canonical-src="https://imgur.com/wM26MLq.png" width="300" />
+<img src="https://imgur.com/KqLQq1W.png" data-canonical-src="https://imgur.com/KqLQq1W.png" width="300" />
+
+<i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
+
 
 ## Donations
 If you like these projects and you want to support me , buy me a coffee.
