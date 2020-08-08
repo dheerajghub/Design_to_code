@@ -64,11 +64,16 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
 
+## Stucking Somewhere ?
+Drop me mail @ dheerajsh123456@gmail.com
 
 ## Donations
 If you like these projects and you want to support me , buy me a coffee.
 
 [![Paypal](https://imgur.com/FokjFDA.png)](https://paypal.me/PayDheeraj)
+
+## Do you like Design to Code series? Go Spread a word!
+Just give it a star ⭐️ and spread the word!
 
 ## Credits
 **©** **Dheeraj kumar sharma** - *2020*
