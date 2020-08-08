@@ -57,12 +57,16 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ## 9.design_to_code( Instagram redesign )
 
-<!-- <img src="https://imgur.com/wM26MLq.png" data-canonical-src="https://imgur.com/wM26MLq.png" width="300" />
-<img src="https://imgur.com/KqLQq1W.png" data-canonical-src="https://imgur.com/KqLQq1W.png" width="300" /> -->
-
 ![](https://imgur.com/wM26MLq.png)  |  ![](https://imgur.com/KqLQq1W.png)
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
+
+## 10.design_to_code( Threading & Discussion App )
+
+![](https://imgur.com/anCuEEp.png)  |  ![](https://imgur.com/I2YE3nZ.png)
+![](https://imgur.com/1AMkSqU.png)  |  ![](https://imgur.com/yI2AT6s.png)
+
+<i>Design-credit: <a href="https://www.instagram.com/p/B1CIDQBgpRY/">Muhammad Abdull( instagram page )</a></i>
 
 ## Stuck Somewhere or having trouble ?
 Drop me mail @ dheerajsh123456@gmail.com
