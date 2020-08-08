@@ -64,7 +64,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
 
-## Stucking Somewhere ?
+## Stuck Somewhere or having trouble ?
 Drop me mail @ dheerajsh123456@gmail.com
 
 ## Donations
