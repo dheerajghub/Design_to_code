@@ -61,7 +61,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
 
-## 10.design_to_code( Threading & Discussion App )
+## 10.design_to_code( Thread & Discussion App )
 
 ![](https://imgur.com/anCuEEp.png)  |  ![](https://imgur.com/I2YE3nZ.png)
 ![](https://imgur.com/1AMkSqU.png)  |  ![](https://imgur.com/yI2AT6s.png)
