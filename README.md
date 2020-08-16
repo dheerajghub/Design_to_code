@@ -39,8 +39,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ## 8. just_design( Travel App )
 
-<img src="https://imgur.com/z2pRwYg.png" data-canonical-src="https://imgur.com/z2pRwYg.png" width="400" />
-<img src="https://imgur.com/8IeMi2p.png" data-canonical-src="https://imgur.com/8IeMi2p.png" width="400" />
+<img src="https://imgur.com/z2pRwYg.png" height="700"> <img src="https://imgur.com/8IeMi2p.png" height="700">
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B9HWfjRgXK4/">Sudhan PS( instagram page )</a></i>
 
