@@ -2,24 +2,30 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 13. design_to_code( instagram redesign 2 )
+
+<img src="https://imgur.com/KPIk78m.png" height="700"> <img src="https://imgur.com/uCQnHhy.png" height="700">
+
+<i>Design-credit: <a href="https://www.instagram.com/p/CDwV8VYggKu/">Manuel Rovira( instagram page )</a></i>
+
 ## 12. design_to_code( Game Explorer APP )
 
-![](https://imgur.com/xhYqFGF.png)  |  ![](https://imgur.com/zMzxH5g.png)
+<img src="https://imgur.com/xhYqFGF.png" height="750"> <img src="https://imgur.com/zMzxH5g.png" height="750">
 
 <i>Design-credit: <a href="https://www.instagram.com/p/BxjhwXCgbQG/">Manuel Rovira( instagram page )</a></i>
 
 
 ## 11 .design_to_code( Thread & Discussion App )
 
-![](https://imgur.com/anCuEEp.png)  |  ![](https://imgur.com/I2YE3nZ.png)
-![](https://imgur.com/1AMkSqU.png)  |  ![](https://imgur.com/yI2AT6s.png)
+<img src="https://imgur.com/anCuEEp.png" height="700"> <img src="https://imgur.com/I2YE3nZ.png" height="700">
+<img src="https://imgur.com/1AMkSqU.png" height="700"> <img src="https://imgur.com/yI2AT6s.png" height="700">
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B1CIDQBgpRY/">Muhammad Abdull( instagram page )</a></i>
 
 
 ## 10 .design_to_code( Instagram redesign )
 
-![](https://imgur.com/wM26MLq.png)  |  ![](https://imgur.com/KqLQq1W.png)
+<img src="https://imgur.com/wM26MLq.png" height="700"> <img src="https://imgur.com/KqLQq1W.png" height="700">
 
 <i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
 
