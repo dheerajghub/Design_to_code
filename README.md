@@ -2,6 +2,10 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 17. design_to_code( Payments App )
+
+<img src="https://imgur.com/uOHNx6I.png" height="700">
+
 ## 16. design_to_code( Facebook post reaction )
 
 <img src="https://imgur.com/XBG7WTl.png" height="700">
