@@ -2,6 +2,10 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 18. design_to_code( App Store Dummy )
+
+<img src="https://imgur.com/ctqPjs6.png" height="700">
+
 ## 17. design_to_code( Payments App )
 
 <img src="https://imgur.com/uOHNx6I.png" height="700">
