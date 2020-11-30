@@ -2,6 +2,12 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 24. [Swift UI] design_to_code( News App )
+
+<img src="https://imgur.com/146lasB.png" height="700">
+
+<i>Design-credit: <a href="https://www.instagram.com/p/CH7s6PTA6mT/">uiuxzain( instagram page )</a></i>
+
 ## 23. [Swift UI] design_to_code( Design Courses App )
 
 <img src="https://imgur.com/BjXZOpo.png" height="700">
