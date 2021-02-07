@@ -2,6 +2,12 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 26. design_to_code( Video App )
+
+<img src="https://imgur.com/nrbM3Zn.png" height="700">
+
+<i>Design-credit: <a href="https://dribbble.com/helenas">Helena( Dribbble Page )</a></i>
+
 ## 25. design_to_code( Mail App )
 
 <img src="https://imgur.com/ezy06LU.png" height="700">
