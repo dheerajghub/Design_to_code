@@ -2,6 +2,10 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 27. design_to_code( Instagram Reel Clone )
+
+<img src="https://imgur.com/LW9OvyV.png" height="700">
+
 ## 26. design_to_code( Video App )
 
 <img src="https://imgur.com/nrbM3Zn.png" height="700">
