@@ -2,6 +2,11 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+
+## 29. [Swift UI ]design_to_code( Rating View Concept )
+
+<img src="https://imgur.com/YrOZFEf.png" height="700">
+
 ## 28. design_to_code( Maps App )
 
 <img src="https://imgur.com/vy3TMgA.png" height="700">
