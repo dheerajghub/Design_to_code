@@ -2,6 +2,10 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 31. [Swift UI ]design_to_code( Splash screen animation )
+
+<img src="https://imgur.com/pmwIzIJ.png" height="700">
+
 ## 30. [Swift UI ]design_to_code( Instagram donate Concept )
 
 <img src="https://imgur.com/75vpBj2.png" height="700">
