@@ -2,6 +2,12 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 32. [UIKit]design_to_code( Nat Geo App Design )
+
+<img src="https://imgur.com/oMz7LPl.png" height="700">
+
+<i>Design-credit: <a href="https://www.instagram.com/rish_designs/">Rish Designs( Instagram Page )</a></i>
+
 ## 31. [Swift UI ]design_to_code( Splash screen animation )
 
 <img src="https://imgur.com/pmwIzIJ.png" height="700">
