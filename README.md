@@ -139,6 +139,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <img src="https://imgur.com/xhYqFGF.png" height="750"> <img src="https://imgur.com/zMzxH5g.png" height="750">
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Game%20Explorer%20App)/design_to_code12.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/BxjhwXCgbQG/">Manuel Rovira( instagram page )</a></i>
 
 
@@ -147,6 +148,7 @@ This is a series of design that i randomly took from various instagram, facebook
 <img src="https://imgur.com/anCuEEp.png" height="700"> <img src="https://imgur.com/I2YE3nZ.png" height="700">
 <img src="https://imgur.com/1AMkSqU.png" height="700"> <img src="https://imgur.com/yI2AT6s.png" height="700">
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Threads%20and%20Discussion%20App%20)/design_to_code11.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/B1CIDQBgpRY/">Muhammad Abdull( instagram page )</a></i>
 
 
@@ -154,6 +156,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <img src="https://imgur.com/wM26MLq.png" height="700"> <img src="https://imgur.com/KqLQq1W.png" height="700">
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20%20instagram%20redefine%20)/Design_to_code10.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
 
 
@@ -161,6 +164,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <img src="https://imgur.com/OzATsb3.png" data-canonical-src="https://imgur.com/OzATsb3.png" width="400" />
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Music%20app%20)/designToCode9.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/CBvvDxTgtVb/">Design4me( instagram page )</a></i>
 
 
@@ -168,6 +172,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 <img src="https://imgur.com/z2pRwYg.png" height="700"> <img src="https://imgur.com/8IeMi2p.png" height="700">
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20travels%20app%20)/DownloadLink">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/B9HWfjRgXK4/">Sudhan PS( instagram page )</a></i>
 
 
@@ -175,6 +180,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ![](https://imgur.com/Ooifc0e.png)
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20banking%20app%20)/justDesign7.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/B6Iv5ekgjzk/">Sudhan PS( instagram page )</a></i>
 
 
@@ -182,6 +188,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ![](https://imgur.com/UcbJpJy.png)
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Meditation%20App)/justDesign6.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/CAp1dYqg_-9/">arounda.agency( instagram page )</a></i>
 
 
@@ -189,6 +196,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ![](https://imgur.com/82aBcoA.png)
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Events%20App%20)/justDesign5.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/CBdiVWqAAzm/">Mickael G</a></i>
 
 
@@ -196,6 +204,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ![](https://imgur.com/LglLXY4.png)
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Instagram%20refined%20)/justDesign4.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/CClWPwsAdt0/">Xitij Thakkar</a></i>
 
 
@@ -203,11 +212,13 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ![](https://imgur.com/wRKcPvZ.png)
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(Food%20ordering)/justDesign2.zip">Get code</a></i><br>
 
 ## 2. just_design( online courses app )
 
 ![](https://imgur.com/osCPr70.png)  |  ![](https://imgur.com/vwAKDfP.png)
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20online%20course%20app)/just_design(online%20courses).zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://www.instagram.com/p/B-g6zsvih5G/">Purrweb (Instagram page)</a></i>
 
 
@@ -215,6 +226,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ![](https://imgur.com/ou1NBKB.png)  |  ![](https://imgur.com/8Zc4y5P.png)
 
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20bike%20ecommerce)/justDesign-ecommerce.zip">Get code</a></i><br>
 <i>Design-credit: <a href="https://dribbble.com/shots/6910454-Bicycle-Store-App/attachments">Marcin Grygierczyk</a></i>
 
 
