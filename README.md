@@ -2,6 +2,12 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 34. design_to_code( Music Playlist App Iteraction )
+
+<img src="https://imgur.com/H6cHqdd.png" height="700">
+
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code34(%20Music%20Playlist%20app%20interaction%20)/design_to_code34.zip">Get code</a></i><br>
+
 ## 33. [SwiftUI]design_to_code( Onboarding concept )
 
 <img src="https://imgur.com/i7mFkGs.png" height="700">
