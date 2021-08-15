@@ -2,6 +2,12 @@
 
 This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
 
+## 37. design_to_code( Instagram Story Interaction Clone )
+
+<img src="https://imgur.com/BhysF4e.png" height="700">
+
+<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/%2337(Instagram%20Story%20Interaction%20Clone)/design_to_code37.zip">Get code</a></i><br>
+
 ## 36. design_to_code( Fashion App Onboarding )
 
 <img src="https://imgur.com/S1uPBSs.png" height="700">
