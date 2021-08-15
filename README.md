@@ -4,7 +4,7 @@ This is a series of design that i randomly took from various instagram, facebook
 
 ## 37. design_to_code( Instagram Story Interaction Clone )
 
-<img src="https://imgur.com/BhysF4e.gif" height="700">
+<img src="https://imgur.com/N0LPIN0.png" height="600">
 
 <i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/%2337(Instagram%20Story%20Interaction%20Clone)/design_to_code37.zip">Get code</a></i><br>
 
