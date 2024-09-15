@@ -260,9 +260,10 @@ This is a series of design that i randomly took from various instagram, facebook
 Drop me mail @ dheerajsh123456@gmail.com
 
 ## Donations
-If you like these projects and you want to support me , buy me a coffee.
+If you like my work and want to support me, consider buying me a coffee! It helps me keep creating more awesome content.
 
-[![Paypal](https://imgur.com/FokjFDA.png)](https://paypal.me/PayDheeraj)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dheeraj.iosdev)
+
 
 ## Do you like Design to Code series? Go Spread a word!
 Just give it a star ⭐️ and spread the word!
