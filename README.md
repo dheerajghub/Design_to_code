@@ -1,272 +1,410 @@
-![](https://imgur.com/HhxNnSw.png)
+![Design to Code Banner](https://imgur.com/HhxNnSw.png)
 
-This is a series of design that i randomly took from various instagram, facebook pages and try to convert thoes designs into code hope it helps you.
+<div align="center">
 
-## 37. design_to_code( Instagram Story Interaction Clone )
+# Design to Code
 
-<img src="https://imgur.com/N0LPIN0.png" height="600">
+### A series where real-world UI designs from Instagram, Dribbble & Facebook are recreated in Swift & SwiftUI
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/%2337(Instagram%20Story%20Interaction%20Clone)/design_to_code37.zip">Get code</a></i><br>
+[![Stars](https://img.shields.io/github/stars/dheerajghub/Design_to_code?style=for-the-badge&color=FA7343)](https://github.com/dheerajghub/Design_to_code/stargazers)
+[![Forks](https://img.shields.io/github/forks/dheerajghub/Design_to_code?style=for-the-badge&color=0D96F6)](https://github.com/dheerajghub/Design_to_code/network/members)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dheeraj.iosdev)
 
-## 36. design_to_code( Fashion App Onboarding )
+</div>
 
-<img src="https://imgur.com/S1uPBSs.png" height="700">
+---
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/%2336(%20Fashion%20App%20Onboarding)/design_to_code36.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://dribbble.com/shots/14032250-Fashion-App-Onboarding">Neelesh Chaudhary( Dribbble )</a></i>
+## About This Series
 
-## 35. design_to_code( NFT Mobile App Concept )
+I pick designs from Instagram, Dribbble, and other design communities and implement them from scratch in Swift (UIKit) or SwiftUI. The goal is simple — bridge the gap between design and code, and help iOS developers tackle real-world UI challenges.
 
-<img src="https://imgur.com/rWoZACw.png" height="700"> <img src="https://imgur.com/29EjuGE.png" height="700">
+Each entry includes:
+- 📸 A preview of the design
+- 💾 A link to download the full source code
+- 🎨 Design credit where applicable
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code35(%20NFT%20Mobile%20App%20Concept%20)/design_to_code35.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://dribbble.com/shots/15543987-NFT-Mobile-App-Concept/attachments/7325359?mode=media">Risang Kuncoro( Dribbble )</a></i>
+---
 
-## 34. [UIKit]design_to_code( Music Playlist App Iteraction )
+## Repository Structure
 
-<img src="https://imgur.com/H6cHqdd.png" height="700">
+Each episode lives in its own self-contained folder. The naming convention reflects the framework used and the episode number:
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code34(%20Music%20Playlist%20app%20interaction%20)/design_to_code34.zip">Get code</a></i><br>
+```
+Design_to_code/
+│
+├── #37(Instagram Story Interaction Clone)/       ← SwiftUI / UIKit episode folder
+│   └── design_to_code37.zip                      ← Xcode project archive
+│
+├── #36( Fashion App Onboarding)/
+│   └── design_to_code36.zip
+│
+├── [SwiftUI] design_to_code29( Rating View Concept )/   ← SwiftUI-prefixed folders
+│   └── design_to_code29.zip
+│
+├── [SwiftUI]design_to_code24( News App )/
+│   └── design_to_code24.zip
+│
+├── design_to_code( Messaging App )/              ← UIKit episode folders
+│   └── design_to_code14.zip
+│
+├── just_design( banking app )/                   ← Early "just_design" series
+│   └── justDesign7.zip
+│
+├── design_to_code26.zip                          ← Standalone zip (no subfolder)
+│
+└── README.md
+```
 
-## 33. [SwiftUI]design_to_code( Onboarding concept )
+### Folder Naming Conventions
 
-<img src="https://imgur.com/i7mFkGs.png" height="700">
+| Prefix | Framework | Example |
+|:---|:---|:---|
+| `[SwiftUI]` | SwiftUI | `[SwiftUI] design_to_code29(...)` |
+| `[UIKit]` | UIKit | Noted in README headers |
+| `design_to_code(...)` | Mixed / UIKit | Most episodes #9–#27 |
+| `just_design(...)` | UIKit (early series) | Episodes #1–#8 |
+| `#NN(...)` | Mixed | Episodes #36–#37 |
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code33/design_to_code33.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/exteedesign/">Xitij Thakkar( Instagram Page )</a></i>
+### How to Run an Episode
 
-## 32. [UIKit]design_to_code( Nat Geo App Design )
+1. Navigate to the episode folder
+2. Download the `.zip` file
+3. Extract and open the `.xcodeproj` or `.xcworkspace` in Xcode
+4. Build and run on a simulator or device (iOS 14+ recommended for SwiftUI episodes)
 
-<img src="https://imgur.com/oMz7LPl.png" height="700">
+---
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code32(%20Nat%20Geo%20App%20Design%20)/design_to_code32.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/rish_designs/">Rish Designs( Instagram Page )</a></i>
+## All Episodes
 
-## 31. [Swift UI ]design_to_code( Splash screen animation )
+### #37 · Instagram Story Interaction Clone
 
-<img src="https://imgur.com/pmwIzIJ.png" height="700">
+<img src="https://imgur.com/N0LPIN0.png" height="500">
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code31(%20Splash%20screen%20animation%20)/design_to_code31.zip">Get code</a></i><br>
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/%2337(Instagram%20Story%20Interaction%20Clone)/design_to_code37.zip)
 
-## 30. [Swift UI ]design_to_code( Instagram donate Concept )
+---
 
-<img src="https://imgur.com/75vpBj2.png" height="700">
+### #36 · Fashion App Onboarding
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/%5BSwiftUI%5D%20design_to_code30(Instagram%20donate%20concept)/design_to_code30_upload_link">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/jaja.design/">Jaja.design( Instagram Page )</a></i>
+<img src="https://imgur.com/S1uPBSs.png" height="500">
 
-## 29. [Swift UI ]design_to_code( Rating View Concept )
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/%2336(%20Fashion%20App%20Onboarding)/design_to_code36.zip) · Design by [Neelesh Chaudhary on Dribbble](https://dribbble.com/shots/14032250-Fashion-App-Onboarding)
 
-<img src="https://imgur.com/YrOZFEf.png" height="700">
+---
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/%5BSwiftUI%5D%20design_to_code29(%20Rating%20View%20Concept%20)/design_to_code29.zip">Get code</a></i><br>
+### #35 · NFT Mobile App Concept
 
-## 28. design_to_code( Maps App )
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/rWoZACw.png" height="500"> | <img src="https://imgur.com/29EjuGE.png" height="500"> |
 
-<img src="https://imgur.com/vy3TMgA.png" height="700">
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code35(%20NFT%20Mobile%20App%20Concept%20)/design_to_code35.zip) · Design by [Risang Kuncoro on Dribbble](https://dribbble.com/shots/15543987-NFT-Mobile-App-Concept/attachments/7325359?mode=media)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code28(%20Maps%20App%20)/design_to_code28.zip">Get code</a></i><br>
+---
 
-## 27. design_to_code( Instagram Reel Clone )
+### #34 · [UIKit] Music Playlist App Interaction
 
-<img src="https://imgur.com/LW9OvyV.png" height="700">
+<img src="https://imgur.com/H6cHqdd.png" height="500">
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Instagram%20Reels%20clone%20)/Upload%20Url">Get code</a></i><br>
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code34(%20Music%20Playlist%20app%20interaction%20)/design_to_code34.zip)
 
-## 26. design_to_code( Video App )
+---
 
-<img src="https://imgur.com/nrbM3Zn.png" height="700">
+### #33 · [SwiftUI] Onboarding Concept
 
-<i>Design-credit: <a href="https://dribbble.com/helenas">Helena( Dribbble Page )</a></i>
+<img src="https://imgur.com/i7mFkGs.png" height="500">
 
-## 25. design_to_code( Mail App )
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code33/design_to_code33.zip) · Design by [Xitij Thakkar on Instagram](https://www.instagram.com/exteedesign/)
 
-<img src="https://imgur.com/ezy06LU.png" height="700">
+---
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code25(%20Mail%20App%20)/design_to_code25.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://dribbble.com/helenas">Helena( Dribbble Page )</a></i>
+### #32 · [UIKit] Nat Geo App Design
 
-## 24. [Swift UI] design_to_code( News App )
+<img src="https://imgur.com/oMz7LPl.png" height="500">
 
-<img src="https://imgur.com/146lasB.png" height="700">
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code32(%20Nat%20Geo%20App%20Design%20)/design_to_code32.zip) · Design by [Rish Designs on Instagram](https://www.instagram.com/rish_designs/)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/%5BSwiftUI%5Ddesign_to_code24(%20News%20App%20)/design_to_code24.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/CH7s6PTA6mT/">uiuxzain( instagram page )</a></i>
+---
 
-## 23. [Swift UI] design_to_code( Design Courses App )
+### #31 · [SwiftUI] Splash Screen Animation
 
-<img src="https://imgur.com/BjXZOpo.png" height="700">
+<img src="https://imgur.com/pmwIzIJ.png" height="500">
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Design%20Course%20app%20in%20Swift%20UI)/design_to_code23.zip">Get code</a></i><br>
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code31(%20Splash%20screen%20animation%20)/design_to_code31.zip)
 
-## 22. design_to_code( Custom rating view )
+---
 
-<img src="https://imgur.com/07661ZE.png" height="700">
+### #30 · [SwiftUI] Instagram Donate Concept
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/Design_to_code(%20Custom%20Rating%20View%20)/design_to_code22.zip">Get code</a></i><br>
+<img src="https://imgur.com/75vpBj2.png" height="500">
 
-## 21. design_to_code( Photo editor App )
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/%5BSwiftUI%5D%20design_to_code30(Instagram%20donate%20concept)/design_to_code30_upload_link) · Design by [jaja.design on Instagram](https://www.instagram.com/jaja.design/)
 
-<img src="https://imgur.com/1ksKq1a.png" height="700">
+---
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Photo%20editor%20app%20)/design_to_code21.zip">Get code</a></i><br>
+### #29 · [SwiftUI] Rating View Concept
 
-## 20. design_to_code( Travel App )
+<img src="https://imgur.com/YrOZFEf.png" height="500">
 
-<img src="https://imgur.com/Y441eqI.png" height="700">
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/%5BSwiftUI%5D%20design_to_code29(%20Rating%20View%20Concept%20)/design_to_code29.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Travel%20app%20concept%20)/design_to_code20.zip">Get code</a></i><br>
+---
 
-## 19. design_to_code( Twitter Side Menu )
+### #28 · Maps App
 
-<img src="https://imgur.com/PAHL3le.png" height="700">
+<img src="https://imgur.com/vy3TMgA.png" height="500">
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Twitter%20Side%20menu%20)/design_to_code19.zip">Get code</a></i><br>
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code28(%20Maps%20App%20)/design_to_code28.zip)
 
-## 18. design_to_code( App Store Dummy )
+---
 
-<img src="https://imgur.com/ctqPjs6.png" height="700">
+### #27 · Instagram Reels Clone
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20App%20Store%20dummy%20)/design_to_code18.zip">Get code</a></i><br>
+<img src="https://imgur.com/LW9OvyV.png" height="500">
 
-## 17. design_to_code( Payments App )
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Instagram%20Reels%20clone%20)/Upload%20Url)
 
-<img src="https://imgur.com/uOHNx6I.png" height="700">
+---
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20payments%20app%20)/design_to_code17.zip">Get code</a></i><br>
+### #26 · Video App
 
-## 16. design_to_code( Facebook post reaction )
+<img src="https://imgur.com/nrbM3Zn.png" height="500">
 
-<img src="https://imgur.com/XBG7WTl.png" height="700">
+Design by [Helena on Dribbble](https://dribbble.com/helenas)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20facebook%20post%20reactions)/design_to_code16.zip">Get code</a></i><br>
+---
 
-## 15. design_to_code( Text Editor App )
+### #25 · Mail App
 
-<img src="https://imgur.com/l6oa8L4.png" height="700"> <img src="https://imgur.com/hsUGAcr.png" height="700">
+<img src="https://imgur.com/ezy06LU.png" height="500">
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Text%20editor%20app)/design_to_code15.zip">Get code</a></i><br>
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code25(%20Mail%20App%20)/design_to_code25.zip) · Design by [Helena on Dribbble](https://dribbble.com/helenas)
 
-## 14. design_to_code( Messaging App )
+---
 
-<img src="https://imgur.com/whcp3C0.png" height="700"> <img src="https://imgur.com/gCj5jto.png" height="700">
+### #24 · [SwiftUI] News App
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Messaging%20App%20)/design_to_code14.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/CClpNMTgERz/">Manuel Rovira( instagram page )</a></i>
+<img src="https://imgur.com/146lasB.png" height="500">
 
-## 13. design_to_code( instagram redesign 2 )
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/%5BSwiftUI%5Ddesign_to_code24(%20News%20App%20)/design_to_code24.zip) · Design by [uiuxzain on Instagram](https://www.instagram.com/p/CH7s6PTA6mT/)
 
-<img src="https://imgur.com/KPIk78m.png" height="700"> <img src="https://imgur.com/uCQnHhy.png" height="700">
+---
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20instagram%20redesign%202%20)/design_to_code13.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/CDwV8VYggKu/">Manuel Rovira( instagram page )</a></i>
+### #23 · [SwiftUI] Design Courses App
 
-## 12. design_to_code( Game Explorer APP )
+<img src="https://imgur.com/BjXZOpo.png" height="500">
 
-<img src="https://imgur.com/xhYqFGF.png" height="750"> <img src="https://imgur.com/zMzxH5g.png" height="750">
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Design%20Course%20app%20in%20Swift%20UI)/design_to_code23.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Game%20Explorer%20App)/design_to_code12.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/BxjhwXCgbQG/">Manuel Rovira( instagram page )</a></i>
+---
 
+### #22 · Custom Rating View
 
-## 11 .design_to_code( Thread & Discussion App )
+<img src="https://imgur.com/07661ZE.png" height="500">
 
-<img src="https://imgur.com/anCuEEp.png" height="700"> <img src="https://imgur.com/I2YE3nZ.png" height="700">
-<img src="https://imgur.com/1AMkSqU.png" height="700"> <img src="https://imgur.com/yI2AT6s.png" height="700">
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/Design_to_code(%20Custom%20Rating%20View%20)/design_to_code22.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Threads%20and%20Discussion%20App%20)/design_to_code11.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/B1CIDQBgpRY/">Muhammad Abdull( instagram page )</a></i>
+---
 
+### #21 · Photo Editor App
 
-## 10 .design_to_code( Instagram redesign )
+<img src="https://imgur.com/1ksKq1a.png" height="500">
 
-<img src="https://imgur.com/wM26MLq.png" height="700"> <img src="https://imgur.com/KqLQq1W.png" height="700">
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Photo%20editor%20app%20)/design_to_code21.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20%20instagram%20redefine%20)/Design_to_code10.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/B-fznncA4tp/">Muhammad Abdull( instagram page )</a></i>
+---
 
+### #20 · Travel App
 
-## 9 .design_to_code( Music App )
+<img src="https://imgur.com/Y441eqI.png" height="500">
 
-<img src="https://imgur.com/OzATsb3.png" data-canonical-src="https://imgur.com/OzATsb3.png" width="400" />
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Travel%20app%20concept%20)/design_to_code20.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Music%20app%20)/designToCode9.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/CBvvDxTgtVb/">Design4me( instagram page )</a></i>
+---
 
+### #19 · Twitter Side Menu
 
-## 8. just_design( Travel App )
+<img src="https://imgur.com/PAHL3le.png" height="500">
 
-<img src="https://imgur.com/z2pRwYg.png" height="700"> <img src="https://imgur.com/8IeMi2p.png" height="700">
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Twitter%20Side%20menu%20)/design_to_code19.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20travels%20app%20)/DownloadLink">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/B9HWfjRgXK4/">Sudhan PS( instagram page )</a></i>
+---
 
+### #18 · App Store Dummy
 
-## 7. just_design( Banking App )
+<img src="https://imgur.com/ctqPjs6.png" height="500">
 
-![](https://imgur.com/Ooifc0e.png)
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20App%20Store%20dummy%20)/design_to_code18.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20banking%20app%20)/justDesign7.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/B6Iv5ekgjzk/">Sudhan PS( instagram page )</a></i>
+---
 
+### #17 · Payments App
 
-## 6. just_design( Meditation App )
+<img src="https://imgur.com/uOHNx6I.png" height="500">
 
-![](https://imgur.com/UcbJpJy.png)
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20payments%20app%20)/design_to_code17.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Meditation%20App)/justDesign6.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/CAp1dYqg_-9/">arounda.agency( instagram page )</a></i>
+---
 
+### #16 · Facebook Post Reaction
 
-## 5. just_design( Events App )
+<img src="https://imgur.com/XBG7WTl.png" height="500">
 
-![](https://imgur.com/82aBcoA.png)
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20facebook%20post%20reactions)/design_to_code16.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Events%20App%20)/justDesign5.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/CBdiVWqAAzm/">Mickael G</a></i>
+---
 
+### #15 · Text Editor App
 
-## 4. just_design( Instagram refined )
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/l6oa8L4.png" height="500"> | <img src="https://imgur.com/hsUGAcr.png" height="500"> |
 
-![](https://imgur.com/LglLXY4.png)
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Text%20editor%20app)/design_to_code15.zip)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Instagram%20refined%20)/justDesign4.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/CClWPwsAdt0/">Xitij Thakkar</a></i>
+---
 
+### #14 · Messaging App
 
-## 3. just_design( Food ordering app )
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/whcp3C0.png" height="500"> | <img src="https://imgur.com/gCj5jto.png" height="500"> |
 
-![](https://imgur.com/wRKcPvZ.png)
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Messaging%20App%20)/design_to_code14.zip) · Design by [Manuel Rovira on Instagram](https://www.instagram.com/p/CClpNMTgERz/)
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(Food%20ordering)/justDesign2.zip">Get code</a></i><br>
+---
 
-## 2. just_design( online courses app )
+### #13 · Instagram Redesign 2
 
-![](https://imgur.com/osCPr70.png)  |  ![](https://imgur.com/vwAKDfP.png)
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/KPIk78m.png" height="500"> | <img src="https://imgur.com/uCQnHhy.png" height="500"> |
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20online%20course%20app)/just_design(online%20courses).zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://www.instagram.com/p/B-g6zsvih5G/">Purrweb (Instagram page)</a></i>
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20instagram%20redesign%202%20)/design_to_code13.zip) · Design by [Manuel Rovira on Instagram](https://www.instagram.com/p/CDwV8VYggKu/)
 
+---
 
-## 1. just_design( Bike Ecommerce )
+### #12 · Game Explorer App
 
-![](https://imgur.com/ou1NBKB.png)  |  ![](https://imgur.com/8Zc4y5P.png)
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/xhYqFGF.png" height="500"> | <img src="https://imgur.com/zMzxH5g.png" height="500"> |
 
-<i>Get Source code here: <a href="https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20bike%20ecommerce)/justDesign-ecommerce.zip">Get code</a></i><br>
-<i>Design-credit: <a href="https://dribbble.com/shots/6910454-Bicycle-Store-App/attachments">Marcin Grygierczyk</a></i>
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Game%20Explorer%20App)/design_to_code12.zip) · Design by [Manuel Rovira on Instagram](https://www.instagram.com/p/BxjhwXCgbQG/)
 
+---
 
-## Stuck Somewhere or having trouble ?
-Drop me mail @ dheerajsh123456@gmail.com
+### #11 · Thread & Discussion App
 
-## Donations
-If you like my work and want to support me, consider buying me a coffee! It helps me keep creating more awesome content.
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/anCuEEp.png" height="500"> | <img src="https://imgur.com/I2YE3nZ.png" height="500"> |
+| <img src="https://imgur.com/1AMkSqU.png" height="500"> | <img src="https://imgur.com/yI2AT6s.png" height="500"> |
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Threads%20and%20Discussion%20App%20)/design_to_code11.zip) · Design by [Muhammad Abdull on Instagram](https://www.instagram.com/p/B1CIDQBgpRY/)
+
+---
+
+### #10 · Instagram Redesign
+
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/wM26MLq.png" height="500"> | <img src="https://imgur.com/KqLQq1W.png" height="500"> |
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20%20instagram%20redefine%20)/Design_to_code10.zip) · Design by [Muhammad Abdull on Instagram](https://www.instagram.com/p/B-fznncA4tp/)
+
+---
+
+### #9 · Music App
+
+<img src="https://imgur.com/OzATsb3.png" width="300">
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/design_to_code(%20Music%20app%20)/designToCode9.zip) · Design by [Design4me on Instagram](https://www.instagram.com/p/CBvvDxTgtVb/)
+
+---
+
+### #8 · Travel App
+
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/z2pRwYg.png" height="500"> | <img src="https://imgur.com/8IeMi2p.png" height="500"> |
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20travels%20app%20)/DownloadLink) · Design by [Sudhan PS on Instagram](https://www.instagram.com/p/B9HWfjRgXK4/)
+
+---
+
+### #7 · Banking App
+
+<img src="https://imgur.com/Ooifc0e.png" height="500">
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20banking%20app%20)/justDesign7.zip) · Design by [Sudhan PS on Instagram](https://www.instagram.com/p/B6Iv5ekgjzk/)
+
+---
+
+### #6 · Meditation App
+
+<img src="https://imgur.com/UcbJpJy.png" height="500">
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Meditation%20App)/justDesign6.zip) · Design by [arounda.agency on Instagram](https://www.instagram.com/p/CAp1dYqg_-9/)
+
+---
+
+### #5 · Events App
+
+<img src="https://imgur.com/82aBcoA.png" height="500">
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Events%20App%20)/justDesign5.zip) · Design by [Mickael G](https://www.instagram.com/p/CBdiVWqAAzm/)
+
+---
+
+### #4 · Instagram Refined
+
+<img src="https://imgur.com/LglLXY4.png" height="500">
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20Instagram%20refined%20)/justDesign4.zip) · Design by [Xitij Thakkar](https://www.instagram.com/p/CClWPwsAdt0/)
+
+---
+
+### #3 · Food Ordering App
+
+<img src="https://imgur.com/wRKcPvZ.png" height="500">
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(Food%20ordering)/justDesign2.zip)
+
+---
+
+### #2 · Online Courses App
+
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/osCPr70.png" height="500"> | <img src="https://imgur.com/vwAKDfP.png" height="500"> |
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20online%20course%20app)/just_design(online%20courses).zip) · Design by [Purrweb on Instagram](https://www.instagram.com/p/B-g6zsvih5G/)
+
+---
+
+### #1 · Bike E-Commerce App
+
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| <img src="https://imgur.com/ou1NBKB.png" height="500"> | <img src="https://imgur.com/8Zc4y5P.png" height="500"> |
+
+[📦 Download Source Code](https://github.com/dheerajghub/Design_to_code/blob/master/just_design(%20bike%20ecommerce)/justDesign-ecommerce.zip) · Design by [Marcin Grygierczyk on Dribbble](https://dribbble.com/shots/6910454-Bicycle-Store-App/attachments)
+
+---
+
+## Support
+
+If this series has helped you, a ⭐️ on the repo goes a long way — and feel free to share it with fellow iOS developers!
+
+For questions or issues, reach out at **dheerajsh123456@gmail.com**
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dheeraj.iosdev)
 
+---
 
-## Do you like Design to Code series? Go Spread a word!
-Just give it a star ⭐️ and spread the word!
-
-## Credits
-**©** **Dheeraj kumar sharma** - *2024*
+<div align="center">
+  <sub>© Dheeraj Kumar Sharma · 2026</sub>
+</div>
